@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
+title: Top Builder
+subtitle: 'Yihui Learns to Build && Write'
+description: 'Let us Go Build.'
+keywords: write, cloud
+author: Top Builder
+language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://readybuilderone.github.io/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
